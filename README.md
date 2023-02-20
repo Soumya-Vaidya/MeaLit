@@ -11,13 +11,13 @@ If you are a new user, you can create a new account by providing a username, pas
 ### Login
 If you have already registered, you can login using your phone number and password. After logging in, you will be taken to the user menu where you can view and browse for restaurants.
 
-## Browse for Restaurants
+### Browse for Restaurants
 You can browse for restaurants or cuisines by selecting the "Search Restaurants" option from the main menu. From here, you can view a list of restaurants and their menus.
 
-## Place Order
+### Place Order
 Once you have selected a restaurant and chosen the items you wish to order and the quantity for samw, you can place your order. You will be asked to provide your order details and the total cost will be calculated.
 
-## Generate Bill
+### Generate Bill
 You can generate a bill for your order which includes the order details and total cost.
 
 
