@@ -1,0 +1,42 @@
+*Romanos
+Linguine Carbonara Pasta
+995
+2
+Lasagne Di Agnello Pasta
+995
+2
+*Romanos
+Linguine Carbonara Pasta
+995
+1
+Gelatie Sorbetti
+450
+2
+*Banana Leaf
+Hyderabadi Biryani
+245
+2
+Sambar Sadham
+210
+1
+*pizza hut
+Double Cheese
+278
+1
+*pizza hut
+Double Cheese
+278
+2
+Tandoori Onion
+250
+5
+*theobroma
+Banana Leaf Special Mini Thali
+290
+5
+Parsley Cream Cheese Danish
+95
+2
+Macarons
+70
+1

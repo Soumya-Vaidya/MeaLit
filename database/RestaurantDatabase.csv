@@ -1,0 +1,7 @@
+Restaurant ID,Restaurant Name,Address,Cuisines,Veg,Average Cost for two,Is delivering now,Aggregate rating,Rating text,Votes
+1001,Romanos,JW Marriot Mumbai Sahar Mumbai,Italian French,Yes,2500,No,4.8,Excellent,314
+1002,Barbeque Nation,Virar Western Suburbs Mumbai,Multicuisine BBQ,No,1200,Yes,4.5,Excellent,591
+1003,Mainland China,Vile Parle Mumbai,Asian Chinese,No,1000,Yes,4.4,Very Good,270
+1004,Pizza Hut,Andheri East Mumbai,Italian,No,600,Yes,4.9,Excellent,365
+1005,Banana Leaf,Juhu Mumbai,Indian North-Indian South-Indian,Yes,400,No,4.8,Excellent,229
+1006,Theobroma,Kamala Mills, Lower Parel Mumbai,Multicisine,Yes,350,Yes,Very Good,189
